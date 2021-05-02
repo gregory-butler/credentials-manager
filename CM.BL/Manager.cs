@@ -20,7 +20,6 @@ namespace CM.BL
       _credentials = GetCredentials();
 
       CheckForDuplicates();
-      System.Console.WriteLine("test");
     }
 
     private static List<Credentials> GetCredentials()
