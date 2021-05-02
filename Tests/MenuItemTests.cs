@@ -4,7 +4,7 @@ using CM.UI;
 using FluentAssertions;
 using Xunit;
 
-namespace Tests.CM.UI.Tests
+namespace Tests
 {
   public static class MenuItemTests
   {

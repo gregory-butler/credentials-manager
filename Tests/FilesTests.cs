@@ -7,7 +7,7 @@ using FluentAssertions;
 using FluentAssertions.Execution;
 using Xunit;
 
-namespace Tests.CM.DL.Tests
+namespace Tests
 {
   public static class FilesTests
   {
